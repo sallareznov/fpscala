@@ -37,3 +37,7 @@ Chaque particule est un cercle défini par:
 - une particule se déplace dans la prochaine case suivant sa direction
 - si elle arrive aux bords de l'environnement, elle réapparaît de l'autre côté
 - si elle cogne une autre particule, elle change de direction et prend une autre direction aléatoire
+
+
+https://github.com/sallareznov/fpscala/assets/10208974/f7ac68ee-463a-4bb1-b794-b510402f92e7
+
